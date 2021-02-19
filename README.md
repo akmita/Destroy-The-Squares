@@ -3,17 +3,14 @@
 
 A simple HTML canvas-based 2-player game. One of my first personal projects.
 
-###
-How to run:
+### How to run
 download repo, open DTS.html using a web browser
 
-###
-Gameplay
+### Gameplay
 Players can control two squares, and shoot and destroy each other. Control left side with wasd and left shift, 
 right side is controlled with the arrow keys and right shift
 
-###
-Technical
+### Technical
 Developed in JavaScript, using object oriented principles. 
 Each player is an object, with fields such as x, y position, speed, health.. ect. 
 Each player also has methods for directional movement, shooting, and drawing itself on screen.
